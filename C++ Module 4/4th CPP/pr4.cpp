@@ -45,7 +45,7 @@ public:
         display_details();
         displayExamMarks();
         int total = m1 + m2 + m3;
-        float percentage = total / 3.0;
+        float percentage = total / 3;
         cout << "Total Marks: " << total << endl;
         cout << "Percentage: " << percentage << "%" << endl;
     }

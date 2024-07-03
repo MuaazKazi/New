@@ -13,9 +13,9 @@ int mathematics(int a,int b,int c,int d){
 }
 int mathematics(int x,int y){
     int result=0;
-    cout<<"[---Substraction---]\n";
+    cout<<"[---Subtraction---]\n";
     result=x-y;
-    cout<<"Substraction "<<x<<"-"<<y<<":"<<result<<endl;
+    cout<<"Subtraction "<<x<<"-"<<y<<":"<<result<<endl;
 }
 int mathematics(double p,double q,int r){
     double result=0;
